@@ -1,0 +1,1517 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BackMarginLTX
+</name>
+</assembly>
+<members>
+<member name="T:BackMarginLTX.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.add_24__2_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.add_property_24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.arrow_21_24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.conference_24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.delete_property_24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.edit_property_24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.folder_2_24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.key_3_24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.logo_ltx">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.logo_ltx1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.logo_ltx11">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.logo_ltx2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.logotipo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.ok_24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.report_2_24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.save_24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.search_13_24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.search_13_24__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.send_file_24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.view_details_24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.My.Resources.Resources.x_mark_4_24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BackMarginLTX.claseConexion.timeOutCommand">
+ <summary>
+ Esto es para modificar el time out de los querys, esto para la variable command....
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.claseConexion.timeOutStoredProc">
+ <summary>
+ Para asignar el time out de un stored Proc, esto porque se puede tardar mas la ejecucion de un 
+ stored proc. El tiempo por default es de 1800 segundos...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.claseConexion.Server">
+ <summary>
+ Aqui va la ip del server al cual se va a conectar...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.claseConexion.InitialCatalog">
+ <summary>
+ A que base se va a conectar ...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.claseConexion.UserId">
+ <summary>
+ Usuario que se utiliza para la conexion ...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.claseConexion.Password">
+ <summary>
+ Clave a utilizarse en la conexion ...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.claseConexion.Puerto">
+ <summary>
+ Numero de puerto que va a utilizar la conexion ...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.claseConexion.pooling">
+ <summary>
+ Configuracion de la conexion si va a utilizar pooling
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.claseConexion.AllowZeroDateTime">
+ <summary>
+ Configuracion de la conexion si va a aceptar fechas tipo string...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.claseConexion.StringDeConexion">
+ <summary>
+ String con la direccion de mysql a utilizar en la conexion...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.AbrirConexion">
+ <summary>
+ Abrir la conexion con la base de datos...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.CerrarConexion">
+ <summary>
+ Cerrar la conexion con la base de datos...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.ObtenerConexion">
+ <summary>
+ Se obtiene la variable de conexion que se esta utilizando...
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.ObtenerStringDeConexion">
+ <summary>
+ Se obtiene que string de conexion se esta utilizando...
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.InstanciarQuery">
+ <summary>
+ Por si se quiere instanciar nuevamente el command...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.GenerarConexion">
+ <summary>
+ Con las propiedades de la conexion ingresados de antemano se genera el estring de conexion...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.BuscarConexionEnXml(System.String)">
+ <summary>
+ Se busca un xml con la informacion de la conexion en la ubicacion del exe...
+ </summary>
+ <param name="nombrexml"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.BuscarConexionEnXml(System.String,System.String)">
+ <summary>
+ Se busca un xml con la informacion de la conexion en la ubicacion especificada...
+ </summary>
+ <param name="nombrexml"></param>
+ <param name="ubicacionxml"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.IniciarTransaccion">
+ <summary>
+ se inicia con la transaccion en los querys de Mysql...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.FinalizarTransaccion">
+ <summary>
+ Se finaliza la transaccion, si no existe error ejecuta Commit, de lo contrario Rollback...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.ForzarErrorTransaccion">
+ <summary>
+ Cambia el estado de la transaccion, para realizar el rollback al Finalizar la Transaccion...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.EjecutarNonQuery(System.String)">
+ <summary>
+ Ejecuta el query deseado, y nos devuelve el numero de lineas afectadas ...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.EjecutarEscalar(System.String)">
+ <summary>
+ Devuelve un dato ...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.InsertarDato(System.String)">
+ <summary>
+ Esta funcion nos sirve para cuando insertamos un datos, y asi saber el id nuevo, 
+ Para eso se utilizo la variabla UltimoIdInsertado. SIEMPRE Y CUANDO EL ID SEA NUMERICO ...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.llenarDataSet(System.String)">
+ <summary>
+ LLENA UN DATASET POR MEDIO DE UN DATA ADAPTER USANDO EL 
+ QUERY ENVIADO COMO PARAMETRO
+ SI LA CONEXION NO ESTA ABIERTA ESTA FUNCION LA ABRE EJECUTA EL 
+ LLENADO DEL DATASET Y LA CIERRA
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.llenarDataSet(System.String,System.String)">
+ <summary>
+ LLENA UN DATASET POR MEDIO DE UN DATA ADAPTER USANDO EL 
+ QUERY ENVIADO COMO PARAMETRO, SE PUEDE ESPECIFICAR EL NOMBRE QUE VA A TENER 
+ LA TABLA EN EL DATASET
+ SI LA CONEXION NO ESTA ABIERTA ESTA FUNCION LA ABRE EJECUTA EL 
+ LLENADO DEL DATASET Y LA CIERRA
+ </summary>
+ <param name="_squery"></param>
+ <param name="nombretabla"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.llenarDataSet(System.String,System.String,System.Data.DataSet@)">
+ <summary>
+ Este no retorna dataset, sino que agrega la info. al dataset enviado por referencia...
+ </summary>
+ <param name="_squery"></param>
+ <param name="nombretabla"></param>
+ <param name="DsDatos"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.llenarDataTable(System.String)">
+ <summary>
+ LLENA UN DATATABLE POR MEDIO DE UN DATA ADAPTER USANDO EL 
+ QUERY ENVIADO COMO PARAMETRO
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="T:BackMarginLTX.claseConexion.cParametrosCommand">
+ <summary>
+ Clase que almacena nombre y valor del parametro. Para un command normal...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.AgregarParametrosCommand(System.String,System.Object)">
+ <summary>
+ Agrega un nuevo parametro, si ya existe ese parametro entonces se actualiza su valor
+ </summary>
+ <param name="_nombre"></param>
+ <param name="_valor"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.EjecutarNonQueryParametros(System.String)">
+ <summary>
+ Ejecuta el query deseado, y nos devuelve el numero de lineas afectadas.
+ Se utilizan los parametros ingresados...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.EjecutarEscalarParametros(System.String)">
+ <summary>
+ Devuelve un dato, Utiliza Parametros...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.InsertarDatoParametros(System.String)">
+ <summary>
+ Esta funcion nos sirve para cuando insertamos un datos, y asi saber el id nuevo, 
+ Para eso se utilizo la variabla UltimoIdInsertado. SIEMPRE Y CUANDO EL ID SEA NUMERICO.
+ Utilizando los parametros ingresados...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.llenarDataSetParametros(System.String)">
+ <summary>
+ LLENA UN DATASET POR MEDIO DE UN DATA ADAPTER USANDO EL 
+ QUERY ENVIADO COMO PARAMETRO
+ SI LA CONEXION NO ESTA ABIERTA ESTA FUNCION LA ABRE EJECUTA EL 
+ LLENADO DEL DATASET Y LA CIERRA.
+ Utiliza los parametros ingresados.
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.llenarDataSetParametros(System.String,System.String)">
+ <summary>
+ LLENA UN DATASET POR MEDIO DE UN DATA ADAPTER USANDO EL 
+ QUERY ENVIADO COMO PARAMETRO, SE PUEDE ESPECIFICAR EL NOMBRE QUE VA A TENER 
+ LA TABLA EN EL DATASET
+ SI LA CONEXION NO ESTA ABIERTA ESTA FUNCION LA ABRE EJECUTA EL 
+ LLENADO DEL DATASET Y LA CIERRA.
+ Utiliza los parametros ingresados...
+ </summary>
+ <param name="_squery"></param>
+ <param name="nombretabla"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.llenarDataSetParametros(System.String,System.String,System.Data.DataSet@)">
+ <summary>
+ Este no retorna dataset, sino que agrega la info. al dataset enviado por referencia.
+ Utiliza los parametros ingresados...
+ </summary>
+ <param name="_squery"></param>
+ <param name="nombretabla"></param>
+ <param name="DsDatos"></param>
+ <remarks></remarks>
+</member>
+<member name="T:BackMarginLTX.claseConexion.ParametrosStoredP">
+ <summary>
+ Esta clase sirve para enviar los parametros al momento de utilizar un stored proc...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.EjecutarStoredProc(System.String)">
+ <summary>
+ Se ejecuta un stored proc..., falta mejorar esta funcion hay que sobrecargarlo x si hay parametros...
+ esto en la proxima version de la clase.
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.EjecutarStoredProc(System.String,BackMarginLTX.claseConexion.ParametrosStoredP[])">
+ <summary>
+ Ejecuta un stored proc en la base de datos, pero utiliza parametros...
+ </summary>
+ <param name="_nombreStoredProc">Nombre del stored procedure</param>
+ <param name="parametros">Los parametros que necesita el stored procedure</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.EjecutarEscalarStoredProc(System.String)">
+ <summary>
+ Se obtiene un dato de la base de datos utilizando un stored procedure...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.EjecutarEscalarStoredProc(System.String,BackMarginLTX.claseConexion.ParametrosStoredP[])">
+ <summary>
+ Se obtiene un dato de la base de datos utilizando un stored procedure con parametros...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="parametros"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.LlenarDatasetStoredProc(System.String)">
+ <summary>
+ Se llena un dataset utilizando como recurso un stored procedure...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.LlenarDatasetStoredProc(System.String,System.String)">
+ <summary>
+ Se llena un dataset utilizando como recurso un stored procedura, se genera con el nombre de tabla especificado...
+ </summary>
+ <param name="_nombreStoredProc">Nombre del stored procedure</param>
+ <param name="_nombreTabla">con que nombre se quiere que se graba la consulta en el dataset</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.LlenarDatasetStoredProc(System.String,BackMarginLTX.claseConexion.ParametrosStoredP[])">
+ <summary>
+ Se llena un dataset utilizando un stored procedure, pero con parametros...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="parametros"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.LlenarDatasetStoredProc(System.String,System.String,BackMarginLTX.claseConexion.ParametrosStoredP[])">
+ <summary>
+ Se llena un dataset utilizando un stored procedure, con nombre de tabla para el dataset y parametros...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="_nombreTabla"></param>
+ <param name="parametros"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.LlenarDatasetStoredProc(System.String,System.String,System.Data.DataSet@)">
+ <summary>
+ No retorna ningun valor,,, se llena un dataset enviado por referencia utilizando el stored procedure
+ especificado.
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="_nombreTabla"></param>
+ <param name="_dsDatos"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.LlenarDatasetStoredProc(System.String,System.String,System.Data.DataSet,BackMarginLTX.claseConexion.ParametrosStoredP[])">
+ <summary>
+ No retorna ningun valor,,, se llena un dataset enviado por referencia utilizando un stored procedure,
+ utilizando utilizando un stored procedures como recurso y com parametros...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="_nombreTabla"></param>
+ <param name="_dsDatos"></param>
+ <param name="parametros"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.Ping">
+ <summary>
+ Para ver si hay ping con el servidor especificado...
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.AumentarTiempoServerReader(System.Int32,System.Int32)">
+ <summary>
+ Esta funcion se utiliza para cuando se ejecutan varios datareaders y se sabe que se va a tardar un 
+ tiempo considerable utilizando esas conexiones. Si se utiliza deberia ser despues de abrir la
+ conexion y antes de ejecutar el reader.
+ Despues debe cerrarse la conexion....
+ </summary>
+ <param name="tiempo_escritura">Tiempo maximo que se puede tener la informacion para escritura</param>
+ <param name="tiempo_lectura">Tiempo maximo que se puede tener la informacion para lectura</param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.iniciarDataReader(System.String)">
+ <summary>
+ Se inicia el dataReader con el query necesario...
+ </summary>
+ <param name="_squery"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.iniciarDataReaderStoredProc(System.String)">
+ <summary>
+ Se inicia un dataReader utilizando como recurso un stored procedures, el stored procedure debera 
+ devolver varios registros para que sea funcional.
+ </summary>
+ <param name="_nombreStoredProc">Nombre del stored procedure</param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.iniciarDataReaderStoredProc(System.String,BackMarginLTX.claseConexion.ParametrosStoredP[])">
+ <summary>
+ Se inicia un datareader utilizando como recurso un datareader, utilizando parametros.
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="parametros"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.claseConexion.cerrarDataReader">
+ <summary>
+ se cierra el datareader, para poder ejecutar otros querys...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.ClaseConexionPMM.timeOutCommand">
+ <summary>
+ Esto es para modificar el time out de los querys, esto para la variable command....
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.ClaseConexionPMM.timeOutStoredProc">
+ <summary>
+ Para asignar el time out de un stored Proc, esto porque se puede tardar mas la ejecucion de un 
+ stored proc. El tiempo por default es de 1800 segundos...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.ClaseConexionPMM.Server">
+ <summary>
+ Aqui va la ip del server al cual se va a conectar...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.ClaseConexionPMM.InitialCatalog">
+ <summary>
+ A que base se va a conectar ...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.ClaseConexionPMM.UserId">
+ <summary>
+ Usuario que se utiliza para la conexion ...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.ClaseConexionPMM.Password">
+ <summary>
+ Clave a utilizarse en la conexion ...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.ClaseConexionPMM.Puerto">
+ <summary>
+ Numero de puerto que va a utilizar la conexion ...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.ClaseConexionPMM.pooling">
+ <summary>
+ Configuracion de la conexion si va a utilizar pooling
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.ClaseConexionPMM.StringDeConexion">
+ <summary>
+ String con la direccion de mysql a utilizar en la conexion...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.AbrirConexion">
+ <summary>
+ Abrir la conexion con la base de datos...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.CerrarConexion">
+ <summary>
+ Cerrar la conexion con la base de datos...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.ObtenerConexion">
+ <summary>
+ Se obtiene la variable de conexion que se esta utilizando...
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.ObtenerStringDeConexion">
+ <summary>
+ Se obtiene que string de conexion se esta utilizando...
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.InstanciarQuery">
+ <summary>
+ Por si se quiere instanciar nuevamente el command...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.GenerarConexion">
+ <summary>
+ Con las propiedades de la conexion ingresados de antemano se genera el estring de conexion...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.BuscarConexionEnXml(System.String)">
+ <summary>
+ Se busca un xml con la informacion de la conexion en la ubicacion del exe...
+ </summary>
+ <param name="nombrexml"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.BuscarConexionEnXml(System.String,System.String)">
+ <summary>
+ Se busca un xml con la informacion de la conexion en la ubicacion especificada...
+ </summary>
+ <param name="nombrexml"></param>
+ <param name="ubicacionxml"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.IniciarTransaccion">
+ <summary>
+ se inicia con la transaccion en los querys de Mysql...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.FinalizarTransaccion">
+ <summary>
+ Se finaliza la transaccion, si no existe error ejecuta Commit, de lo contrario Rollback...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.ForzarErrorTransaccion">
+ <summary>
+ Cambia el estado de la transaccion, para realizar el rollback al Finalizar la Transaccion...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.EjecutarNonQuery(System.String)">
+ <summary>
+ Ejecuta el query deseado, y nos devuelve el numero de lineas afectadas ...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.EjecutarEscalar(System.String)">
+ <summary>
+ Devuelve un dato ...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.InsertarDato(System.String)">
+ <summary>
+ Esta funcion nos sirve para cuando insertamos un datos, y asi saber el id nuevo, 
+ Para eso se utilizo la variabla UltimoIdInsertado. SIEMPRE Y CUANDO EL ID SEA NUMERICO ...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.llenarDataSet(System.String)">
+ <summary>
+ LLENA UN DATASET POR MEDIO DE UN DATA ADAPTER USANDO EL 
+ QUERY ENVIADO COMO PARAMETRO
+ SI LA CONEXION NO ESTA ABIERTA ESTA FUNCION LA ABRE EJECUTA EL 
+ LLENADO DEL DATASET Y LA CIERRA
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.llenarDataSet(System.String,System.String)">
+ <summary>
+ LLENA UN DATASET POR MEDIO DE UN DATA ADAPTER USANDO EL 
+ QUERY ENVIADO COMO PARAMETRO, SE PUEDE ESPECIFICAR EL NOMBRE QUE VA A TENER 
+ LA TABLA EN EL DATASET
+ SI LA CONEXION NO ESTA ABIERTA ESTA FUNCION LA ABRE EJECUTA EL 
+ LLENADO DEL DATASET Y LA CIERRA
+ </summary>
+ <param name="_squery"></param>
+ <param name="nombretabla"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.llenarDataSet(System.String,System.String,System.Data.DataSet@)">
+ <summary>
+ Este no retorna dataset, sino que agrega la info. al dataset enviado por referencia...
+ </summary>
+ <param name="_squery"></param>
+ <param name="nombretabla"></param>
+ <param name="DsDatos"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.llenarDataTable(System.String)">
+ <summary>
+ LLENA UN DATATABLE POR MEDIO DE UN DATA ADAPTER USANDO EL 
+ QUERY ENVIADO COMO PARAMETRO
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="T:BackMarginLTX.ClaseConexionPMM.cParametrosCommand">
+ <summary>
+ Clase que almacena nombre y valor del parametro. Para un command normal...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.AgregarParametrosCommand(System.String,System.Object)">
+ <summary>
+ Agrega un nuevo parametro, si ya existe ese parametro entonces se actualiza su valor
+ </summary>
+ <param name="_nombre"></param>
+ <param name="_valor"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.EjecutarNonQueryParametros(System.String)">
+ <summary>
+ Ejecuta el query deseado, y nos devuelve el numero de lineas afectadas.
+ Se utilizan los parametros ingresados...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.EjecutarEscalarParametros(System.String)">
+ <summary>
+ Devuelve un dato, Utiliza Parametros...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.InsertarDatoParametros(System.String)">
+ <summary>
+ Esta funcion nos sirve para cuando insertamos un datos, y asi saber el id nuevo, 
+ Para eso se utilizo la variabla UltimoIdInsertado. SIEMPRE Y CUANDO EL ID SEA NUMERICO.
+ Utilizando los parametros ingresados...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.llenarDataSetParametros(System.String)">
+ <summary>
+ LLENA UN DATASET POR MEDIO DE UN DATA ADAPTER USANDO EL 
+ QUERY ENVIADO COMO PARAMETRO
+ SI LA CONEXION NO ESTA ABIERTA ESTA FUNCION LA ABRE EJECUTA EL 
+ LLENADO DEL DATASET Y LA CIERRA.
+ Utiliza los parametros ingresados.
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.llenarDataSetParametros(System.String,System.String)">
+ <summary>
+ LLENA UN DATASET POR MEDIO DE UN DATA ADAPTER USANDO EL 
+ QUERY ENVIADO COMO PARAMETRO, SE PUEDE ESPECIFICAR EL NOMBRE QUE VA A TENER 
+ LA TABLA EN EL DATASET
+ SI LA CONEXION NO ESTA ABIERTA ESTA FUNCION LA ABRE EJECUTA EL 
+ LLENADO DEL DATASET Y LA CIERRA.
+ Utiliza los parametros ingresados...
+ </summary>
+ <param name="_squery"></param>
+ <param name="nombretabla"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.llenarDataSetParametros(System.String,System.String,System.Data.DataSet@)">
+ <summary>
+ Este no retorna dataset, sino que agrega la info. al dataset enviado por referencia.
+ Utiliza los parametros ingresados...
+ </summary>
+ <param name="_squery"></param>
+ <param name="nombretabla"></param>
+ <param name="DsDatos"></param>
+ <remarks></remarks>
+</member>
+<member name="T:BackMarginLTX.ClaseConexionPMM.ParametrosStoredP">
+ <summary>
+ Esta clase sirve para enviar los parametros al momento de utilizar un stored proc...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.EjecutarStoredProc(System.String)">
+ <summary>
+ Se ejecuta un stored proc..., falta mejorar esta funcion hay que sobrecargarlo x si hay parametros...
+ esto en la proxima version de la clase.
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.EjecutarStoredProc(System.String,BackMarginLTX.ClaseConexionPMM.ParametrosStoredP[])">
+ <summary>
+ Ejecuta un stored proc en la base de datos, pero utiliza parametros...
+ </summary>
+ <param name="_nombreStoredProc">Nombre del stored procedure</param>
+ <param name="parametros">Los parametros que necesita el stored procedure</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.EjecutarEscalarStoredProc(System.String)">
+ <summary>
+ Se obtiene un dato de la base de datos utilizando un stored procedure...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.EjecutarEscalarStoredProc(System.String,BackMarginLTX.ClaseConexionPMM.ParametrosStoredP[])">
+ <summary>
+ Se obtiene un dato de la base de datos utilizando un stored procedure con parametros...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="parametros"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.LlenarDatasetStoredProc(System.String)">
+ <summary>
+ Se llena un dataset utilizando como recurso un stored procedure...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.LlenarDatasetStoredProc(System.String,System.String)">
+ <summary>
+ Se llena un dataset utilizando como recurso un stored procedura, se genera con el nombre de tabla especificado...
+ </summary>
+ <param name="_nombreStoredProc">Nombre del stored procedure</param>
+ <param name="_nombreTabla">con que nombre se quiere que se graba la consulta en el dataset</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.LlenarDatasetStoredProc(System.String,BackMarginLTX.ClaseConexionPMM.ParametrosStoredP[])">
+ <summary>
+ Se llena un dataset utilizando un stored procedure, pero con parametros...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="parametros"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.LlenarDatasetStoredProc(System.String,System.String,BackMarginLTX.ClaseConexionPMM.ParametrosStoredP[])">
+ <summary>
+ Se llena un dataset utilizando un stored procedure, con nombre de tabla para el dataset y parametros...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="_nombreTabla"></param>
+ <param name="parametros"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.LlenarDatasetStoredProc(System.String,System.String,System.Data.DataSet@)">
+ <summary>
+ No retorna ningun valor,,, se llena un dataset enviado por referencia utilizando el stored procedure
+ especificado.
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="_nombreTabla"></param>
+ <param name="_dsDatos"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.LlenarDatasetStoredProc(System.String,System.String,System.Data.DataSet,BackMarginLTX.ClaseConexionPMM.ParametrosStoredP[])">
+ <summary>
+ No retorna ningun valor,,, se llena un dataset enviado por referencia utilizando un stored procedure,
+ utilizando utilizando un stored procedures como recurso y com parametros...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="_nombreTabla"></param>
+ <param name="_dsDatos"></param>
+ <param name="parametros"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.Ping">
+ <summary>
+ Para ver si hay ping con el servidor especificado...
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.AumentarTiempoServerReader(System.Int32,System.Int32)">
+ <summary>
+ Esta funcion se utiliza para cuando se ejecutan varios datareaders y se sabe que se va a tardar un 
+ tiempo considerable utilizando esas conexiones. Si se utiliza deberia ser despues de abrir la
+ conexion y antes de ejecutar el reader.
+ Despues debe cerrarse la conexion....
+ </summary>
+ <param name="tiempo_escritura">Tiempo maximo que se puede tener la informacion para escritura</param>
+ <param name="tiempo_lectura">Tiempo maximo que se puede tener la informacion para lectura</param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.iniciarDataReader(System.String)">
+ <summary>
+ Se inicia el dataReader con el query necesario...
+ </summary>
+ <param name="_squery"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.iniciarDataReaderStoredProc(System.String)">
+ <summary>
+ Se inicia un dataReader utilizando como recurso un stored procedures, el stored procedure debera 
+ devolver varios registros para que sea funcional.
+ </summary>
+ <param name="_nombreStoredProc">Nombre del stored procedure</param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.iniciarDataReaderStoredProc(System.String,BackMarginLTX.ClaseConexionPMM.ParametrosStoredP[])">
+ <summary>
+ Se inicia un datareader utilizando como recurso un datareader, utilizando parametros.
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="parametros"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.ClaseConexionPMM.cerrarDataReader">
+ <summary>
+ se cierra el datareader, para poder ejecutar otros querys...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.clsConexionSqlServer.timeOutCommand">
+ <summary>
+ Esto es para modificar el time out de los querys, esto para la variable command....
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.clsConexionSqlServer.timeOutStoredProc">
+ <summary>
+ Para asignar el time out de un stored Proc, esto porque se puede tardar mas la ejecucion de un 
+ stored proc. El tiempo por default es de 1800 segundos...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.clsConexionSqlServer.Server">
+ <summary>
+ Aqui va la ip del server al cual se va a conectar...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.clsConexionSqlServer.InitialCatalog">
+ <summary>
+ A que base se va a conectar ...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.clsConexionSqlServer.UserId">
+ <summary>
+ Usuario que se utiliza para la conexion ...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.clsConexionSqlServer.Password">
+ <summary>
+ Clave a utilizarse en la conexion ...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.clsConexionSqlServer.Puerto">
+ <summary>
+ Numero de puerto que va a utilizar la conexion ...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.clsConexionSqlServer.pooling">
+ <summary>
+ Configuracion de la conexion si va a utilizar pooling
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.clsConexionSqlServer.AllowZeroDateTime">
+ <summary>
+ Configuracion de la conexion si va a aceptar fechas tipo string...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:BackMarginLTX.clsConexionSqlServer.StringDeConexion">
+ <summary>
+ String con la direccion de mysql a utilizar en la conexion...
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.AbrirConexion">
+ <summary>
+ Abrir la conexion con la base de datos...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.CerrarConexion">
+ <summary>
+ Cerrar la conexion con la base de datos...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.ObtenerConexion">
+ <summary>
+ Se obtiene la variable de conexion que se esta utilizando...
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.ObtenerStringDeConexion">
+ <summary>
+ Se obtiene que string de conexion se esta utilizando...
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.InstanciarQuery">
+ <summary>
+ Por si se quiere instanciar nuevamente el command...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.GenerarConexion">
+ <summary>
+ Con las propiedades de la conexion ingresados de antemano se genera el estring de conexion...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.BuscarConexionEnXml(System.String)">
+ <summary>
+ Se busca un xml con la informacion de la conexion en la ubicacion del exe...
+ </summary>
+ <param name="nombrexml"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.BuscarConexionEnXml(System.String,System.String)">
+ <summary>
+ Se busca un xml con la informacion de la conexion en la ubicacion especificada...
+ </summary>
+ <param name="nombrexml"></param>
+ <param name="ubicacionxml"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.IniciarTransaccion">
+ <summary>
+ se inicia con la transaccion en los querys de Mysql...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.FinalizarTransaccion">
+ <summary>
+ Se finaliza la transaccion, si no existe error ejecuta Commit, de lo contrario Rollback...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.ForzarErrorTransaccion">
+ <summary>
+ Cambia el estado de la transaccion, para realizar el rollback al Finalizar la Transaccion...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.EjecutarNonQuery(System.String)">
+ <summary>
+ Ejecuta el query deseado, y nos devuelve el numero de lineas afectadas ...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.EjecutarEscalar(System.String)">
+ <summary>
+ Devuelve un dato ...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.InsertarDato(System.String)">
+ <summary>
+ Esta funcion nos sirve para cuando insertamos un datos, y asi saber el id nuevo, 
+ Para eso se utilizo la variabla UltimoIdInsertado. SIEMPRE Y CUANDO EL ID SEA NUMERICO ...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.llenarDataSet(System.String)">
+ <summary>
+ LLENA UN DATASET POR MEDIO DE UN DATA ADAPTER USANDO EL 
+ QUERY ENVIADO COMO PARAMETRO
+ SI LA CONEXION NO ESTA ABIERTA ESTA FUNCION LA ABRE EJECUTA EL 
+ LLENADO DEL DATASET Y LA CIERRA
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.llenarDataSet(System.String,System.String)">
+ <summary>
+ LLENA UN DATASET POR MEDIO DE UN DATA ADAPTER USANDO EL 
+ QUERY ENVIADO COMO PARAMETRO, SE PUEDE ESPECIFICAR EL NOMBRE QUE VA A TENER 
+ LA TABLA EN EL DATASET
+ SI LA CONEXION NO ESTA ABIERTA ESTA FUNCION LA ABRE EJECUTA EL 
+ LLENADO DEL DATASET Y LA CIERRA
+ </summary>
+ <param name="_squery"></param>
+ <param name="nombretabla"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.llenarDataSet(System.String,System.String,System.Data.DataSet@)">
+ <summary>
+ Este no retorna dataset, sino que agrega la info. al dataset enviado por referencia...
+ </summary>
+ <param name="_squery"></param>
+ <param name="nombretabla"></param>
+ <param name="DsDatos"></param>
+ <remarks></remarks>
+</member>
+<member name="T:BackMarginLTX.clsConexionSqlServer.cParametrosCommand">
+ <summary>
+ Clase que almacena nombre y valor del parametro. Para un command normal...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.AgregarParametrosCommand(System.String,System.Object)">
+ <summary>
+ Agrega un nuevo parametro, si ya existe ese parametro entonces se actualiza su valor
+ </summary>
+ <param name="_nombre"></param>
+ <param name="_valor"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.EjecutarNonQueryParametros(System.String)">
+ <summary>
+ Ejecuta el query deseado, y nos devuelve el numero de lineas afectadas.
+ Se utilizan los parametros ingresados...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.EjecutarEscalarParametros(System.String)">
+ <summary>
+ Devuelve un dato, Utiliza Parametros...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.InsertarDatoParametros(System.String)">
+ <summary>
+ Esta funcion nos sirve para cuando insertamos un datos, y asi saber el id nuevo, 
+ Para eso se utilizo la variabla UltimoIdInsertado. SIEMPRE Y CUANDO EL ID SEA NUMERICO.
+ Utilizando los parametros ingresados...
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.llenarDataSetParametros(System.String)">
+ <summary>
+ LLENA UN DATASET POR MEDIO DE UN DATA ADAPTER USANDO EL 
+ QUERY ENVIADO COMO PARAMETRO
+ SI LA CONEXION NO ESTA ABIERTA ESTA FUNCION LA ABRE EJECUTA EL 
+ LLENADO DEL DATASET Y LA CIERRA.
+ Utiliza los parametros ingresados.
+ </summary>
+ <param name="_squery"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.llenarDataSetParametros(System.String,System.String)">
+ <summary>
+ LLENA UN DATASET POR MEDIO DE UN DATA ADAPTER USANDO EL 
+ QUERY ENVIADO COMO PARAMETRO, SE PUEDE ESPECIFICAR EL NOMBRE QUE VA A TENER 
+ LA TABLA EN EL DATASET
+ SI LA CONEXION NO ESTA ABIERTA ESTA FUNCION LA ABRE EJECUTA EL 
+ LLENADO DEL DATASET Y LA CIERRA.
+ Utiliza los parametros ingresados...
+ </summary>
+ <param name="_squery"></param>
+ <param name="nombretabla"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.llenarDataSetParametros(System.String,System.String,System.Data.DataSet@)">
+ <summary>
+ Este no retorna dataset, sino que agrega la info. al dataset enviado por referencia.
+ Utiliza los parametros ingresados...
+ </summary>
+ <param name="_squery"></param>
+ <param name="nombretabla"></param>
+ <param name="DsDatos"></param>
+ <remarks></remarks>
+</member>
+<member name="T:BackMarginLTX.clsConexionSqlServer.ParametrosStoredP">
+ <summary>
+ Esta clase sirve para enviar los parametros al momento de utilizar un stored proc...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.EjecutarStoredProc(System.String)">
+ <summary>
+ Se ejecuta un stored proc..., falta mejorar esta funcion hay que sobrecargarlo x si hay parametros...
+ esto en la proxima version de la clase.
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.EjecutarStoredProc(System.String,BackMarginLTX.clsConexionSqlServer.ParametrosStoredP[])">
+ <summary>
+ Ejecuta un stored proc en la base de datos, pero utiliza parametros...
+ </summary>
+ <param name="_nombreStoredProc">Nombre del stored procedure</param>
+ <param name="parametros">Los parametros que necesita el stored procedure</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.EjecutarEscalarStoredProc(System.String)">
+ <summary>
+ Se obtiene un dato de la base de datos utilizando un stored procedure...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.EjecutarEscalarStoredProc(System.String,BackMarginLTX.clsConexionSqlServer.ParametrosStoredP[])">
+ <summary>
+ Se obtiene un dato de la base de datos utilizando un stored procedure con parametros...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="parametros"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.LlenarDatasetStoredProc(System.String)">
+ <summary>
+ Se llena un dataset utilizando como recurso un stored procedure...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.LlenarDatasetStoredProc(System.String,System.String)">
+ <summary>
+ Se llena un dataset utilizando como recurso un stored procedura, se genera con el nombre de tabla especificado...
+ </summary>
+ <param name="_nombreStoredProc">Nombre del stored procedure</param>
+ <param name="_nombreTabla">con que nombre se quiere que se graba la consulta en el dataset</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.LlenarDatasetStoredProc(System.String,BackMarginLTX.clsConexionSqlServer.ParametrosStoredP[])">
+ <summary>
+ Se llena un dataset utilizando un stored procedure, pero con parametros...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="parametros"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.LlenarDatasetStoredProc(System.String,System.String,BackMarginLTX.clsConexionSqlServer.ParametrosStoredP[])">
+ <summary>
+ Se llena un dataset utilizando un stored procedure, con nombre de tabla para el dataset y parametros...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="_nombreTabla"></param>
+ <param name="parametros"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.LlenarDatasetStoredProc(System.String,System.String,System.Data.DataSet@)">
+ <summary>
+ No retorna ningun valor,,, se llena un dataset enviado por referencia utilizando el stored procedure
+ especificado.
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="_nombreTabla"></param>
+ <param name="_dsDatos"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.LlenarDatasetStoredProc(System.String,System.String,System.Data.DataSet,BackMarginLTX.clsConexionSqlServer.ParametrosStoredP[])">
+ <summary>
+ No retorna ningun valor,,, se llena un dataset enviado por referencia utilizando un stored procedure,
+ utilizando utilizando un stored procedures como recurso y com parametros...
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="_nombreTabla"></param>
+ <param name="_dsDatos"></param>
+ <param name="parametros"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.Ping">
+ <summary>
+ Para ver si hay ping con el servidor especificado...
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.AumentarTiempoServerReader(System.Int32,System.Int32)">
+ <summary>
+ Esta funcion se utiliza para cuando se ejecutan varios datareaders y se sabe que se va a tardar un 
+ tiempo considerable utilizando esas conexiones. Si se utiliza deberia ser despues de abrir la
+ conexion y antes de ejecutar el reader.
+ Despues debe cerrarse la conexion....
+ </summary>
+ <param name="tiempo_escritura">Tiempo maximo que se puede tener la informacion para escritura</param>
+ <param name="tiempo_lectura">Tiempo maximo que se puede tener la informacion para lectura</param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.iniciarDataReader(System.String)">
+ <summary>
+ Se inicia el dataReader con el query necesario...
+ </summary>
+ <param name="_squery"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.iniciarDataReaderStoredProc(System.String)">
+ <summary>
+ Se inicia un dataReader utilizando como recurso un stored procedures, el stored procedure debera 
+ devolver varios registros para que sea funcional.
+ </summary>
+ <param name="_nombreStoredProc">Nombre del stored procedure</param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.iniciarDataReaderStoredProc(System.String,BackMarginLTX.clsConexionSqlServer.ParametrosStoredP[])">
+ <summary>
+ Se inicia un datareader utilizando como recurso un datareader, utilizando parametros.
+ </summary>
+ <param name="_nombreStoredProc"></param>
+ <param name="parametros"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BackMarginLTX.clsConexionSqlServer.cerrarDataReader">
+ <summary>
+ se cierra el datareader, para poder ejecutar otros querys...
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BackMarginLTX.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:BackMarginLTX.DataSet1.productosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BackMarginLTX.DataSet1.productosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BackMarginLTX.DataSet1.productosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BackMarginLTX.DataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:BackMarginLTX.DataSet2.espaciosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BackMarginLTX.DataSet2.espaciosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BackMarginLTX.DataSet2.espaciosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BackMarginLTX.DataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:BackMarginLTX.DataSet3.MarcaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BackMarginLTX.DataSet3.MarcaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BackMarginLTX.DataSet3.MarcaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BackMarginLTX.DataSet4">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:BackMarginLTX.DataSet4.TiendaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BackMarginLTX.DataSet4.TiendaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BackMarginLTX.DataSet4.TiendaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>

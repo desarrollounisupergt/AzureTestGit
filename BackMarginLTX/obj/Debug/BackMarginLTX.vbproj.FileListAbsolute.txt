@@ -1,0 +1,323 @@
+C:\Users\cibanez\AppData\Local\Temporary Projects\BackMarginLTX\bin\Debug\BackMarginLTX.exe.config
+C:\Users\cibanez\AppData\Local\Temporary Projects\BackMarginLTX\bin\Debug\BackMarginLTX.exe
+C:\Users\cibanez\AppData\Local\Temporary Projects\BackMarginLTX\bin\Debug\BackMarginLTX.pdb
+C:\Users\cibanez\AppData\Local\Temporary Projects\BackMarginLTX\bin\Debug\BackMarginLTX.xml
+C:\Users\cibanez\AppData\Local\Temporary Projects\BackMarginLTX\obj\Debug\BackMarginLTX.Resources.resources
+C:\Users\cibanez\AppData\Local\Temporary Projects\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.GenerateResource.Cache
+C:\Users\cibanez\AppData\Local\Temporary Projects\BackMarginLTX\obj\Debug\BackMarginLTX.exe
+C:\Users\cibanez\AppData\Local\Temporary Projects\BackMarginLTX\obj\Debug\BackMarginLTX.xml
+C:\Users\cibanez\AppData\Local\Temporary Projects\BackMarginLTX\obj\Debug\BackMarginLTX.pdb
+C:\Users\cibanez\AppData\Local\Temporary Projects\BackMarginLTX\obj\Debug\BackMarginLTX.frmcontrato.resources
+C:\Users\cibanez\AppData\Local\Temporary Projects\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuPrincipal.resources
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe.config
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.exe
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.xml
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.pdb
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.pdb
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.xml
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbprojResolveAssemblyReference.cache
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmcontrato.resources
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuContratos.resources
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuPrincipal.resources
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Resources.resources
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.GenerateResource.Cache
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmEliminarContrato.resources
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuUsuarios.resources
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmTipodeItems.resources
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmReportes.resources
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frminiciodesesion.resources
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmcambiarcontraseña.resources
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\bin\Debug\itextsharp.dll
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmdetalleespacio.resources
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmNocontrato.resources
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmmodificardetalle.resources
+C:\Users\cibanez\Documents\Visual Studio 2012\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmtasadecambio.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe.config
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.exe
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.xml
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.pdb
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.pdb
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.xml
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\bin\Debug\itextsharp.dll
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbprojResolveAssemblyReference.cache
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmcontrato.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmmodificardetalle.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmNocontrato.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frminiciodesesion.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmTipodeItems.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmEliminarContrato.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuContratos.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuPrincipal.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmdetalleespacio.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmtasadecambio.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmcambiarcontraseña.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuUsuarios.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Resources.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmReportes.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.GenerateResource.Cache
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe.config
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.exe
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.xml
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.pdb
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.pdb
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.xml
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbprojResolveAssemblyReference.cache
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmcontrato.resources
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmmodificardetalle.resources
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmNocontrato.resources
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frminiciodesesion.resources
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmTipodeItems.resources
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmEliminarContrato.resources
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuContratos.resources
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuPrincipal.resources
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmdetalleespacio.resources
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmtasadecambio.resources
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmcambiarcontraseña.resources
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuUsuarios.resources
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Resources.resources
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmReportes.resources
+\\192.168.101.227\Administracion\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.GenerateResource.Cache
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe.config
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.exe
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.xml
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.pdb
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.pdb
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.xml
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\bin\Debug\itextsharp.dll
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbprojResolveAssemblyReference.cache
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmcontrato.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmmodificardetalle.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmNocontrato.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frminiciodesesion.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmTipodeItems.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmEliminarContrato.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuContratos.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuPrincipal.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmdetalleespacio.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmtasadecambio.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmcambiarcontraseña.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuUsuarios.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Resources.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmReportes.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX001101032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.GenerateResource.Cache
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe.config
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.exe
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.xml
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.pdb
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbprojResolveAssemblyReference.cache
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmcontrato.resources
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmmodificardetalle.resources
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmNocontrato.resources
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frminiciodesesion.resources
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmTipodeItems.resources
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmEliminarContrato.resources
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuContratos.resources
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuPrincipal.resources
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmdetalleespacio.resources
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmtasadecambio.resources
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmcambiarcontraseña.resources
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuUsuarios.resources
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Resources.resources
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmReportes.resources
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.GenerateResource.Cache
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.pdb
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.xml
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe.config
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.exe
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.xml
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.pdb
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.pdb
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.xml
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\bin\Debug\itextsharp.dll
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbprojResolveAssemblyReference.cache
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmcontrato.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmmodificardetalle.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmNocontrato.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frminiciodesesion.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmTipodeItems.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmEliminarContrato.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuContratos.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuPrincipal.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmdetalleespacio.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmtasadecambio.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmcambiarcontraseña.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuUsuarios.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Resources.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmReportes.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX012.07032017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.GenerateResource.Cache
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe.config
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.exe
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.xml
+\\192.168.101.227\Sistemas2\Desarrollo\Desarrollo Cindy 2016\BackMarginLTX\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.pdb
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe.config
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.exe
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.xml
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.pdb
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.pdb
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.xml
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\bin\Debug\itextsharp.dll
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbprojResolveAssemblyReference.cache
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmcontrato.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmmodificardetalle.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmNocontrato.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frminiciodesesion.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmTipodeItems.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmEliminarContrato.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuContratos.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuPrincipal.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmdetalleespacio.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmtasadecambio.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmcambiarcontraseña.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuUsuarios.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Resources.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmReportes.resources
+C:\Users\cibanez\Documents\Visual Studio 2015\Projects\BackmarginLTX015.07042017\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.GenerateResource.Cache
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe.config
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.exe
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.xml
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.pdb
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.pdb
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.xml
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbprojResolveAssemblyReference.cache
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmcontrato.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmmodificardetalle.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmNocontrato.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frminiciodesesion.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmTipodeItems.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmEliminarContrato.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuContratos.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuPrincipal.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmdetalleespacio.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmtasadecambio.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmcambiarcontraseña.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuUsuarios.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Resources.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmReportes.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.GenerateResource.Cache
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe.config
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.exe
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.xml
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.pdb
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.pdb
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.xml
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmcontrato.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmmodificardetalle.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmNocontrato.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frminiciodesesion.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmTipodeItems.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmEliminarContrato.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuContratos.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuPrincipal.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmdetalleespacio.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmtasadecambio.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmcambiarcontraseña.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuUsuarios.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Resources.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmReportes.resources
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.GenerateResource.Cache
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe.config
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.exe
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.xml
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.pdb
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.pdb
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.xml
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbprojResolveAssemblyReference.cache
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmcontrato.resources
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmmodificardetalle.resources
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmNocontrato.resources
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frminiciodesesion.resources
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmTipodeItems.resources
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmEliminarContrato.resources
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuContratos.resources
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuPrincipal.resources
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmdetalleespacio.resources
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmtasadecambio.resources
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmcambiarcontraseña.resources
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuUsuarios.resources
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Resources.resources
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmReportes.resources
+C:\Users\jboch\OneDrive - Unisuper\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.GenerateResource.Cache
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe.config
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.exe
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.xml
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.pdb
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.pdb
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.xml
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbprojResolveAssemblyReference.cache
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmcontrato.resources
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmmodificardetalle.resources
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmNocontrato.resources
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frminiciodesesion.resources
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmTipodeItems.resources
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmEliminarContrato.resources
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuContratos.resources
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuPrincipal.resources
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmdetalleespacio.resources
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmtasadecambio.resources
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmcambiarcontraseña.resources
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuUsuarios.resources
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Resources.resources
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmReportes.resources
+C:\Users\jboch\OneDrive\Documentos\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.GenerateResource.Cache
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe.config
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.exe
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.xml
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.pdb
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.pdb
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.xml
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbprojResolveAssemblyReference.cache
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmcontrato.resources
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmmodificardetalle.resources
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmNocontrato.resources
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frminiciodesesion.resources
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmTipodeItems.resources
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmEliminarContrato.resources
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuContratos.resources
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuPrincipal.resources
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmdetalleespacio.resources
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmtasadecambio.resources
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmcambiarcontraseña.resources
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuUsuarios.resources
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Resources.resources
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmReportes.resources
+C:\Users\jboch\OneDrive\Escritorio\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.GenerateResource.Cache
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbprojAssemblyReference.cache
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.CoreCompileInputs.cache
+C:\Users\jboch\Documents\Visual Studio 2015\Projects\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.CopyComplete
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe.config
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.exe
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.pdb
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\bin\Debug\BackMarginLTX.xml
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbprojAssemblyReference.cache
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmcontrato.resources
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmmodificardetalle.resources
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmNocontrato.resources
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frminiciodesesion.resources
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmTipodeItems.resources
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmEliminarContrato.resources
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuContratos.resources
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuPrincipal.resources
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmdetalleespacio.resources
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.frmtasadecambio.resources
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Frmcambiarcontraseña.resources
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmMenuUsuarios.resources
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.Resources.resources
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.FrmReportes.resources
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.GenerateResource.cache
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.CoreCompileInputs.cache
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.vbproj.CopyComplete
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.exe
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.xml
+C:\Users\jboch\Documents\Proyectos\BackMargin\BackMargin LTX\BackMarginLTX\BackMarginLTX\obj\Debug\BackMarginLTX.pdb
